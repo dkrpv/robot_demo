@@ -8,7 +8,7 @@ Not exactly a "test", more of a bot to fill up your github progress bar (usage n
 
 - **Verkkokauppa Test**
 
-Extensive Verkkokauppa System Test
+Extensive Verkkokauppa System Test, found here: https://github.com/yoinkeds/verkkokauppa_robotframework
 
 - **Flights**
 
