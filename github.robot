@@ -13,3 +13,4 @@ Commit Through Git
 
 Commit Through Browser App
   Open Browser    https://github.com/dkrpv/robot_demo   Chrome
+  Click Element   xpath://*[@id="repo-content-pjax-container"]/div/div/div[3]/div[1]/div[2]/details/summary
