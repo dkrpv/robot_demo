@@ -10,4 +10,4 @@ Simple flight booking websites System Test
 Extensive Verkkokauppa System Test
 - **Github Fill**
 
-Not exactly a "test", more of a bot to fill up your github progress bar (usage not reccommended)
+Not exactly a "test", more of a bot to fill up your github progress bar (usage not recommended)
